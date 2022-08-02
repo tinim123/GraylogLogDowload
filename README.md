@@ -9,3 +9,5 @@ Graylog User
 Graylog Password
 Log Download File
 ```
+
+Tested for Graylog 4.2.x Version
